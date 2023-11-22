@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-12
-img: Construction.png
+img: Construction.jpg
 alt: image-alt
 project-date: 
 client: 
